@@ -24,4 +24,5 @@ A very buggy but functional version of Google's offline dinosaur game.
 Does not include birds and night mode; does not increase in speed as score goes up.
 Requires Pygame and runs on Python 2.x
 This was made quite a long time ago and the code is very amateur.
+To run: ```python GoogleDinoGameClass.py```
 
