@@ -25,4 +25,5 @@ Does not include birds and night mode; does not increase in speed as score goes 
 Requires Pygame and runs on Python 2.x
 This was made quite a long time ago and the code is very amateur.
 To run: ```python GoogleDinoGameClass.py```
+None of these images used belongs to me. All copyright is owed to the respective creators.
 
